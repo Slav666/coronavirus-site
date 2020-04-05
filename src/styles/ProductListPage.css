@@ -1,0 +1,13 @@
+.products .title {
+  margin: 2rem;
+}
+
+.links {
+  text-decoration: none;
+  color: red;
+  list-style-type: none;
+  margin: 2rem;
+}
+.products a {
+  text-decoration: none;
+}
